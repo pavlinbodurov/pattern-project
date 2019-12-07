@@ -1,0 +1,12 @@
+#header{
+	background: url("backround-brick1.jpg");
+}
+
+#header p{
+	font-size: 25px;
+	font-weight: bolder;
+}
+.card{
+	border:2px solid #c7b6b5;
+	margin-bottom: 10px;
+}
